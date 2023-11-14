@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30717.126
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReflectDemo", "ReflectDemo\ReflectDemo.csproj", "{1AD00265-58F5-416B-9904-75C11E46A77F}"
 EndProject
@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegateDemo", "DelegateDem
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultithreadingDemo", "MultithreadingDemo\MultithreadingDemo.csproj", "{228D0435-1ECD-4374-906B-C039AC03BE56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultithreadingTwoColorBall", "MultithreadingTwoColorBall\MultithreadingTwoColorBall.csproj", "{94583F17-B03C-4449-8C4A-52A7999BBB40}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultithreadingTwoColorBall", "MultithreadingTwoColorBall\MultithreadingTwoColorBall.csproj", "{94583F17-B03C-4449-8C4A-52A7999BBB40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileIODemo", "FileIODemo\FileIODemo.csproj", "{74D5E949-9951-40C4-AF12-F51D85EDFE8C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{94583F17-B03C-4449-8C4A-52A7999BBB40}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94583F17-B03C-4449-8C4A-52A7999BBB40}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94583F17-B03C-4449-8C4A-52A7999BBB40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74D5E949-9951-40C4-AF12-F51D85EDFE8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74D5E949-9951-40C4-AF12-F51D85EDFE8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74D5E949-9951-40C4-AF12-F51D85EDFE8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74D5E949-9951-40C4-AF12-F51D85EDFE8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
